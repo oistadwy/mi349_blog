@@ -75,5 +75,7 @@ h3{
 
 .caption {
     width: 300px;
-    float: right;
+    position: relative;
+    top: 100px;
+    right: 100px;
 }
