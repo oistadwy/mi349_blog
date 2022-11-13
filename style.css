@@ -6,6 +6,12 @@ body {
     background: #444444;
 }
 
+header {
+    position: sticky;
+    top: 0;
+    background: #444444;
+  }
+  
 h1 {
     font-size: 5rem;
     color: blanchedalmond;
