@@ -67,6 +67,7 @@ h3{
 }
 
 .img {
+    width: 300px;
     float: right;
     top: 50px;
     right: 100px;
