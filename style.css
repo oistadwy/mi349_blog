@@ -93,9 +93,9 @@ h3{
     line-height: .8rem;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
     section {
-        display: none;
+        display: initial;
         background-color: red;
     }
 }
