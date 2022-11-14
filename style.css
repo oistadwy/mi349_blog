@@ -93,9 +93,8 @@ h3{
     line-height: .8rem;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 2000px) {
     section {
         flex-direction: column;
-        background-color: red;
     }
 }
