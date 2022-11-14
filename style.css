@@ -95,7 +95,7 @@ h3{
 
 @media (max-width: 1000px) {
     article {
-        display: initial;
+        flex-direction: column;
         background-color: red;
     }
 }
