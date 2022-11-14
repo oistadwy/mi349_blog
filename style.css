@@ -96,11 +96,11 @@ h3{
     line-height: .8rem;
 }
 
-@media (max-width: 2000px) {
+@media (max-width: 400px) {
     body {
-        background-color: red;
         margin-left: 75px;
         margin-right: 75px;
+        font-size: smaller;
     }
 }
 
