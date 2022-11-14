@@ -94,7 +94,7 @@ h3{
 }
 
 @media (max-width: 1000px) {
-    section {
+    article {
         display: initial;
         background-color: red;
     }
