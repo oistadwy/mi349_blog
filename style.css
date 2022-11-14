@@ -98,3 +98,9 @@ h3{
         flex-direction: column;
     }
 }
+
+@media (max-width: 400px) {
+    section {
+        font-size: .8rem;
+    }
+}
