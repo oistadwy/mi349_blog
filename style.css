@@ -99,6 +99,8 @@ h3{
 @media (max-width: 400px) {
     body {
         background-color: red;
+        margin-left: 75px;
+        margin-right: 75px;
     }
 }
 
