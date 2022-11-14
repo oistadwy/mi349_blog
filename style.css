@@ -100,7 +100,8 @@ h3{
 }
 
 @media (max-width: 400px) {
-    section {
-        font-size: .8rem;
+    body {
+        font-size: smaller;
+        background-color: red;
     }
 }
