@@ -92,3 +92,9 @@ h3{
     font-size: .8rem;
     line-height: .8rem;
 }
+
+@media (max-width: 600px) {
+    section {
+        display:block;
+    }
+}
